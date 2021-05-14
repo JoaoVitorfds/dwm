@@ -9,3 +9,5 @@ My personal build of the Suckless Dynamic Window Manager
 - Scratchpads
 - Vanity Gaps - Gaps e Layouts
 - Xrdb - Lê cores de um arquivo .Xresources
+
+![DWM](dwm.png)
